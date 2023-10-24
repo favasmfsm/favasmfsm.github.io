@@ -16,7 +16,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Senior Data Analyst at Tiger Analytics with a deep passion for working with data and uncovering insights that drive business value. My current work is focused on natural language processing (NLP), specifically in the areas of text-matching and document-parsing. My experience in these sub-topics has enabled me to develop expertise in the application of NLP in real-world business scenarios.
+I am a Data Scientist with a deep passion for working with data and uncovering insights that drive business value. My current work is focused on natural language processing (NLP) and Large Langiage Models(LLMs), specifically in the areas of document chat with LLMs,text-matching and document-parsing. My experience in these sub-topics has enabled me to develop expertise in the application of NLP in real-world business scenarios.
 
 I received my Dual Degree (B.Tech+M.Tech) from IIT Madras. During my time there, I worked on navigation of quadcopters in GPS-denied environments under the guidance of Prof. Ranjith Mohan. This experience allowed me to hone my skills in programming languages such as Python and C++.
 
