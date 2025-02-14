@@ -2,25 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Favas manchappulath  
+      value: Favas Manchappulath
     - name: CV
       value: Please click on the top-right icon
-    # - name: Languages
-    #   value: English, Hindi, Malayalam, Tamil, Arabic, German
+    - name: Languages
+      value: English, Hindi, Malayalam, Tamil, Arabic, German
 
 - title: Education
   type: time_table
   contents:
     - title: Master of Technology
       institution: Indian Institute of Technology Madras
-      # year: 2020
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
+      year: 2020
+      description:
+        - Specialization in Robotics and AI
+        
     - title: Bachelor of Technology
       institution: Indian Institute of Technology Madras
       # year: 2020
@@ -31,22 +27,40 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Senior Data Analyst
-      institution: Tiger Analytics
-      year: 2021 - Present
+    - title: Co-Founder & Head of AI
+      institution: Annolive AI
+      year: 2024 - Present
       description:
-        - Advanced Analytics (NLP)
-        - Consumer Packages Goods (CPG)
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
+        - Leading AI strategy and development
+        - Building advanced NLP solutions
+
+    - title: Data Scientist
+      institution: Tiger Analytics
+      year: 2021 - 2024
+      description:
+        - Developed advanced analytics solutions using NLP
+        - Specialized in Consumer Packaged Goods (CPG) domain
+        - Led multiple client engagements and technical implementations
+
     - title: Solutions Engineer
-      institution: Micron Technology 
+      institution: Micron Technology
       year: 2020 - 2021
-      # description:
-      #   - Description 1.
-      #   - Description 2.
+      description:
+        - Worked on semiconductor solutions
+        - Implemented technical solutions for memory products
+
+- title: Technical Skills
+  type: list
+  contents:
+    - <u>Programming Languages:</u> Python, SQL, R
+    - <u>Machine Learning:</u> Natural Language Processing, Deep Learning, Statistical Analysis
+    - <u>Tools & Frameworks:</u> TensorFlow, PyTorch, Scikit-learn, Git
+
+- title: Interests
+  type: list
+  contents:
+    - <u>Research Areas:</u> Natural Language Processing, Machine Learning, AI Applications in Business
+    - <u>Industry Focus:</u> Consumer Analytics, Enterprise AI Solutions
 
     # - title: Director
     #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
